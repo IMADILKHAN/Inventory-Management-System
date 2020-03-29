@@ -7,11 +7,4 @@ _All the data table are done in mysql and are in the database folder_
 ![ims.png](ims.png)
 ![ims_1.png](ims_1.png)
 
-**Technologies used**
 
-* Mysql
-* Node.js
-* Adonis.js
-* React.js
-* Gulp.js
-* Webpack.js
