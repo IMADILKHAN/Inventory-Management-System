@@ -3,6 +3,16 @@ _Inventory managment system it's designed to track sales of a sneaker shop can b
 _It has a products,brands,order and user's page_
 _All the data table are done in mysql and are in the database folder_
 
+**Technologies used**
+
+* Mysql
+* Node.js
+* Adonis.js
+* React.js
+* Gulp.js
+* Webpack.js
+
+
 
 ![ims.png](ims.png)
 ![ims_1.png](ims_1.png)
