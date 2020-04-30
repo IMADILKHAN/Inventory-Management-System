@@ -19,14 +19,11 @@ if ($('#coin_sales1').length) {
             legend: {
                 display: false
             },
-            animation: {
-                easing: "easeInOutBack"
-            },
             scales: {
                 yAxes: [{
                     display: !1,
                     ticks: {
-                        fontColor: "rgba(0,0,0,0.5)",
+                        fontColor: "rgba(0,0,0,0.8)",
                         fontStyle: "bold",
                         beginAtZero: !0,
                         maxTicksLimit: 5,
